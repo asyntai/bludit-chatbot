@@ -19,11 +19,12 @@ This plugin embeds the Asyntai chatbot on your Bludit site and provides a simple
 
 ## Installation
 
-1. Download the plugin and extract the `asyntai` folder
-2. Upload the `asyntai` folder to your Bludit `/bl-plugins/` directory
+1. Download the plugin and extract the `asyntai` folder 
+2. Upload the `asyntai` folder to your Bludit `/bl-plugins/` directory (note: the folder name must be exactly 'asyntai' if it is anything else, the plugin may not work)
 3. Go to your Bludit admin panel
 4. Navigate to Settings -> Plugins
 5. Find "Asyntai - AI Chatbot" and click "Activate"
+**Note:** If you don't want to use the plugin or the plugin does not work for you, you can still use Asyntai by getting a JavaScript snippet from [asyntai.com/dashboard](https://asyntai.com/dashboard) and manually inserting it into your theme.
 
 ## Configuration
 
@@ -60,3 +61,4 @@ Email us at hello@asyntai.com or try our chatbot directly at [asyntai.com](https
 ![Asyntai AI chatbot 3](https://asyntai.com/static/images/ai-chatbot-for-websites-3.png)
 ![Asyntai AI chatbot 4](https://asyntai.com/static/images/ai-chatbot-for-websites-4.png)
 ![Asyntai AI chatbot 5](https://asyntai.com/static/images/ai-chatbot-for-websites-5.png)
+
