@@ -1,0 +1,10 @@
+{
+    "author": "Asyntai",
+    "email": "support@asyntai.com",
+    "website": "https://asyntai.com",
+    "version": "1.0.0",
+    "releaseDate": "2025-12-09",
+    "license": "MIT",
+    "compatible": "3.x",
+    "notes": "AI assistant / chatbot - Provides instant answers to your website visitors"
+}

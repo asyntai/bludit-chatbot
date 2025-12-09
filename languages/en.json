@@ -1,0 +1,27 @@
+{
+    "plugin-data":
+    {
+        "name": "Asyntai - AI Chatbot",
+        "description": "AI assistant / chatbot - Provides instant answers to your website visitors"
+    },
+    "status": "Status",
+    "connected": "Connected",
+    "not-connected": "Not connected",
+    "as": "as",
+    "reset": "Reset",
+    "get-started": "Get started",
+    "enabled-title": "Asyntai is now enabled",
+    "enabled-desc": "Set up your AI chatbot, review chat logs and more:",
+    "open-panel": "Open Asyntai Panel",
+    "create-account": "Create a free Asyntai account or sign in to enable the chatbot",
+    "popup-blocked": "If it doesn't work, %s.",
+    "open-connect-window": "open the connect window",
+    "connecting": "Asyntai connected. Saving...",
+    "success": "Asyntai connected. Chatbot enabled on all pages.",
+    "error-save": "Could not save settings: ",
+    "popup-alert": "Popup blocked. Please allow popups or use the link below.",
+    "reset-confirm": "Are you sure you want to disconnect Asyntai?",
+    "reset-failed": "Reset failed: ",
+    "tip": "Tip",
+    "tip-text": "If you want to change how the AI answers, please <a href=\"https://asyntai.com/dashboard#setup\" target=\"_blank\" rel=\"noopener\">go here</a>."
+}
