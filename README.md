@@ -1,17 +1,21 @@
 # Asyntai - AI Chatbot for Bludit
 
-AI assistant / chatbot - Provides instant answers to your website visitors
+Create and launch AI assistant/chatbot for your Bludit website in minutes. It talks to your visitors, helps, explains, never misses a chat and can increase conversion rates! All while knowing your website, customized just for you. Your Bludit website can now talk.
 
-## Description
+This plugin embeds the Asyntai chatbot on your Bludit site and provides a simple admin interface to connect your site to Asyntai.
 
-Asyntai is an AI-powered chatbot that provides instant answers to your website visitors. Simply install the plugin, connect your Asyntai account, and the chatbot will be enabled on all pages of your Bludit site.
 
-## Features
+## Why choose Asyntai?
 
-- **Easy Setup**: Connect with your Asyntai account in just a few clicks
-- **Automatic Integration**: Once connected, the chatbot appears on all pages
-- **Customizable**: Configure your AI responses from the Asyntai dashboard
-- **Lightweight**: Minimal impact on site performance
+* **Increase conversions**: Instant, human like replies keep shoppers engaged and buying.
+
+* **Never miss a chat**: The AI replies day and night, even when your team is offline.
+
+* **Knows your website**: Customized just for you; it follows your instructions.
+
+* **Works in all languages**: Automatically detects and answers in the visitor's language.
+
+* **Fast responses (1-3s)**: Keeps customers from bouncing.
 
 ## Installation
 
@@ -47,6 +51,12 @@ https://asyntai.com/dashboard
 
 MIT License - see LICENSE file for details
 
-## Support
+## Have a question?
+Email us at hello@asyntai.com or try our chatbot directly at [asyntai.com](https://asyntai.com/)
 
-For support, please visit https://asyntai.com or contact support@asyntai.com
+
+![Asyntai AI chatbot 1](https://asyntai.com/static/images/ai-chatbot-for-websites-1.png)
+![Asyntai AI chatbot 2](https://asyntai.com/static/images/ai-chatbot-for-websites-2.png)
+![Asyntai AI chatbot 3](https://asyntai.com/static/images/ai-chatbot-for-websites-3.png)
+![Asyntai AI chatbot 4](https://asyntai.com/static/images/ai-chatbot-for-websites-4.png)
+![Asyntai AI chatbot 5](https://asyntai.com/static/images/ai-chatbot-for-websites-5.png)
