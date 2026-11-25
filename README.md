@@ -17,22 +17,22 @@ This plugin embeds the Asyntai chatbot on your Bludit site and provides a simple
 
 * **Fast responses (1-3s)**: Keeps customers from bouncing.
 
+* **Reads your pages directly**: With one tick, the chatbot reads your published pages and posts, so its answers stay up to date. Drafts are never shared.
+
 ## Installation
 
-1. Download the plugin and extract the `asyntai` folder 
-2. Upload the `asyntai` folder to your Bludit `/bl-plugins/` directory (note: the folder name must be exactly 'asyntai' if it is anything else, the plugin may not work)
+1. Download `asyntai.zip` from the [latest release](https://github.com/asyntai/bludit-chatbot/releases/latest) and extract it
+2. Upload the `asyntai` folder to your Bludit `/bl-plugins/` directory
 3. Go to your Bludit admin panel
 4. Navigate to Settings -> Plugins
 5. Find "Asyntai - AI Chatbot" and click "Activate"
-
-**Note:** If you don't want to use the plugin or the plugin does not work for you, you can still use Asyntai by getting a JavaScript snippet from [asyntai.com/dashboard](https://asyntai.com/dashboard) and manually inserting it into your theme.
 
 ## Configuration
 
 After installation:
 
 1. Click on "Asyntai - AI Chatbot" in the admin sidebar
-2. Click "Get started" to connect your Asyntai account
+2. Keep "Let the chatbot read my published pages" ticked if you want the chatbot to read your pages, then click "Get started"
 3. Sign in or create a free account at asyntai.com
 4. The plugin will automatically save your connection
 5. The chatbot is now live on your site!
@@ -44,10 +44,11 @@ https://asyntai.com/dashboard
 
 ## Requirements
 
-- Bludit 3.x or higher
-- PHP 5.6 or higher
+- Bludit 3.10 to 3.22
+- PHP 7.0 or higher
+- For page sharing: the site must be reachable from the internet
 
-**Note:** If your Bludit version is not compatible, you can still use Asyntai by getting a JavaScript snippet from [asyntai.com/dashboard](https://asyntai.com/dashboard) and manually inserting it into your theme.
+**Note:** If you prefer not to use the plugin, you can still use Asyntai by getting a JavaScript snippet from [asyntai.com/dashboard](https://asyntai.com/dashboard) and manually inserting it into your theme.
 
 ## License
 
@@ -62,5 +63,3 @@ Email us at hello@asyntai.com or try our chatbot directly at [asyntai.com](https
 ![Asyntai AI chatbot 3](https://asyntai.com/static/images/ai-chatbot-for-websites-3.png)
 ![Asyntai AI chatbot 4](https://asyntai.com/static/images/ai-chatbot-for-websites-4.png)
 ![Asyntai AI chatbot 5](https://asyntai.com/static/images/ai-chatbot-for-websites-5.png)
-
-

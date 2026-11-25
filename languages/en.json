@@ -1,6 +1,5 @@
 {
-    "plugin-data":
-    {
+    "plugin-data": {
         "name": "Asyntai - AI Chatbot",
         "description": "AI assistant / chatbot - Provides instant answers to your website visitors"
     },
@@ -14,14 +13,18 @@
     "enabled-desc": "Set up your AI chatbot, review chat logs and more:",
     "open-panel": "Open Asyntai Panel",
     "create-account": "Create a free Asyntai account or sign in to enable the chatbot",
-    "popup-blocked": "If it doesn't work, %s.",
-    "open-connect-window": "open the connect window",
-    "connecting": "Asyntai connected. Saving...",
-    "success": "Asyntai connected. Chatbot enabled on all pages.",
-    "error-save": "Could not save settings: ",
+    "success": "Asyntai connected. The chatbot is now on all pages.",
+    "error-save": "Something went wrong: ",
     "popup-alert": "Popup blocked. Please allow popups or use the link below.",
     "reset-confirm": "Are you sure you want to disconnect Asyntai?",
     "reset-failed": "Reset failed: ",
     "tip": "Tip",
-    "tip-text": "If you want to change how the AI answers, please <a href=\"https://asyntai.com/dashboard#setup\" target=\"_blank\" rel=\"noopener\">go here</a>."
+    "tip-text": "If you want to change how the AI answers, please <a href=\"https://asyntai.com/dashboard#setup\" target=\"_blank\" rel=\"noopener\">go here</a>.",
+    "waiting": "Finish signing in in the new window. This page updates by itself.",
+    "share-label": "Let the chatbot read my published pages",
+    "share-help": "Your published pages and posts are shared with Asyntai, so answers stay up to date. Drafts are never shared.",
+    "needs-connect": "To share your pages, press Reset and connect once more.",
+    "pages-shared": "Pages shared: %s items",
+    "pages-reading": "Reading your pages...",
+    "timeout": "The connection took too long. Please press Get started again."
 }
